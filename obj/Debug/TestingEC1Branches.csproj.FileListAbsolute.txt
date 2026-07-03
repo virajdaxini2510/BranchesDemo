@@ -1,0 +1,7 @@
+E:\BE SEM 5 - 2026-2027\5EV4\A\TestingEC1Branches\obj\Debug\TestingEC1Branches.csproj.AssemblyReference.cache
+E:\BE SEM 5 - 2026-2027\5EV4\A\TestingEC1Branches\obj\Debug\TestingEC1Branches.csproj.CoreCompileInputs.cache
+E:\BE SEM 5 - 2026-2027\5EV4\A\TestingEC1Branches\bin\Debug\TestingEC1Branches.exe.config
+E:\BE SEM 5 - 2026-2027\5EV4\A\TestingEC1Branches\bin\Debug\TestingEC1Branches.exe
+E:\BE SEM 5 - 2026-2027\5EV4\A\TestingEC1Branches\bin\Debug\TestingEC1Branches.pdb
+E:\BE SEM 5 - 2026-2027\5EV4\A\TestingEC1Branches\obj\Debug\TestingEC1Branches.exe
+E:\BE SEM 5 - 2026-2027\5EV4\A\TestingEC1Branches\obj\Debug\TestingEC1Branches.pdb
