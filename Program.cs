@@ -12,6 +12,15 @@ namespace TestingEC1Branches
         {
 
             Console.WriteLine("Good morning!");
+            Console.WriteLine("Good morning!");
+
+            Console.WriteLine("Good morning!");
+
+            Console.WriteLine("Good morning!");
+
+            Console.WriteLine("Good morning!");
+
+
         }
     }
 }
